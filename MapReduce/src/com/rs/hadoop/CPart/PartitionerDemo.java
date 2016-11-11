@@ -21,7 +21,7 @@ import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.Mapper;
 /**
  *
- * @author Rohan Jain
+ * @auth copied by rajesh
  *
  */
 public class PartitionerDemo extends Configured implements Tool {
